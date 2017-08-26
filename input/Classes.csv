@@ -1,0 +1,143 @@
+,Course #,Section,Course Title,Instructor,Day(s),Start time,End Time,Max,Enrolled
+CSE,5351,1,Parallel Processing,Ahmad,T,7:00 PM,9:50 PM,50,50
+CSE,5325,2,Sfwr Eng II,Amaravadi,R,7:00 PM,8:20 PM,45,34
+cse,6363,1,Machine Learning,Athitsos,MWF,1:00 PM,1:50pm,80,58
+CSE,3320,1,Operating Systems,Bakker,MW,7:00 PM,8:20 PM,45,45
+CSE,3315,1,Theoretical Concepts,Barasch,TR,11:00 AM,12:20 PM,45,43
+CSE,3315,2,Theoretical Concepts,Barasch,TR,2:00 PM,3:20 PM,45,45
+CSE,4191,1,Individual Projectis,Barasch,TBA,12:00 AM,12:00 AM,10,0
+CSE,4391,1,Individual Projectis,Barasch,TBA,12:00 AM,12:00 AM,10,3
+CSE,2315,1,Discrete Structures,Biswas,MW,4:00 PM,5:20 PM,45,44
+CSE,2315,4,Discrete Structures,Biswas,MW,5:30 PM,6:50 PM,50,43
+CSE,2315,5,Discrete Structures,Biswas,MW,7:00 PM,8:20 PM,45,17
+CSE,2312,2,Computer Org & Assemb Lang,Brezeale,MWF,11:00 AM,11:50 AM,45,45
+CSE,3313,1,Intro to Signal Processing,Brezeale,TR,3:30 PM,4:50 PM,50,45
+CSE,3380,1,Linear Algebra,Brezeale,TR,11:00 AM,12:20 PM,55,55
+CSE,3442,1,Embedded Systems I,Burns,TR,12:30 PM,1:50 PM,30,14
+CSE ,3442,2,Embedded Systems I Lab,Burns,T,2:00 PM,04;50 pm,15,1
+CSE ,3442,3,Embedded Systems I Lab,Burns,W,1:00 PM,3:50 PM,15,13
+CSE,2441,1,Intro to Digital Logic,Carroll,TR,11:00 AM,12:20 PM,24,19
+CSE,2441,2,Intro to Digital Logic Lab,Carroll,F,2:00 PM,4:50 PM,15,9
+CSE,2441,3,Intro to Digital Logic Lab,Carroll,F,9:00 AM,11:50 AM,12,10
+CSE,4323,1,Quantitative Computer Arch,Carroll,TR,2:00 PM,3:20 PM,30,30
+CSE,6331,3,Adv Tops Database ,Chakravarthy,TR,9:30 AM,10:50 AM,30,19
+CSE,6349,1,Spec Tops Adv Networks,Che,TR,12:30 PM,01;50 pm,40,40
+CSE,1310,2,Intro Computers & Programming,Conly,TR ,2:00 PM,3:20 PM,45,45
+CSE,4317,5,Comptuer System Dsgn II,Conly,TR,11:00 AM,12:20 PM,30,23
+CSE,4317,6,Computer System Dsgn II,Conly,F,10:00 AM,11:50 AM,30,23
+CSE ,4317,3,Computer System Dsgn II,Conly,TR,9:30 AM,10:50 AM,30,27
+CSE ,4317,4,Computer system Dsgn II,Conly,F,1:00 PM,2:00 PM,30,27
+CSE,4314,1,Professional Practices,Cross,TR,9:30 AM,10:50 AM,40,38
+CSE,4314,2,Professional Practices,Cross,TR,11:00 AM,12:20 PM,40,18
+CSE,4322,1,Software Project Management,Cross,TR,2:00 PM,3:20 PM,60,55
+CSE,3311,1,Object-Oriented Sftw Eng,Csallner,TR,11:00 AM,12:20 PM,40,15
+CSE,6324,2,Adv Tops Software Eng,Csallner,TR,2:00 PM,3:20 PM,30,9
+CSE,5311,2,Algorithms  ,Das,TR,12:30 PM,1:50 PM,40,42
+CSE,6311,1,Advanced Algorithms,Das,TR,3:30 PM,4:50 PM,30,30
+CSE,5330,1,Database Systems,Dash,S,1:00 PM,3:50 PM,40,40
+CSE,1320,1,intermediate Programming,Datta,MW,2:30 PM,3:50 PM,45,45
+CSE,1320,2,intermediate Programming,Datta,TR,12:30 PM,1:50 PM,45,45
+CSE,1320,4,intermediate Programming,Datta,TR,2:00 PM,3:20 PM,45,46
+CSE,4344,2,Computer Network Organization,Datta,MW,2:00 PM,3:20 PM,45,41
+CSE,3310,2,Fundamentals of SFWR Eng,Davis,MW,5:30 PM,6:50 PM,45,45
+CSE,4334,1,Data Mining,Diaz,TR,9:30 AM,10:50 AM,45,45
+CSE,5320,1,Spec Topics Sofware Eng,Diaz,W,4:00 PM,6:50 PM,40,27
+CSE,5334,2,Data Mining,Diaz,TR,11:00 AM,12:20 PM,45,45
+CSE ,5335,2,Web Data Management,Diaz,T,2:00 PM,4:50 PM,45,45
+CSE,5334,1,Data Mining,Ding,T,7:00 PM,9:50 PM,40,40
+CSE,1105,1,Intro to Computer Science & Eng,Eary,M,11:00 AM,11:50 AM,100,71
+CSE,1105,2,Intro to Computer Science & Eng,Eary,W,11:00 AM,11:50 AM,100,78
+CSE,1105,3,Intro to Computer Science & Eng,Eary,F,11:00 AM,11:50 AM,100,57
+CSE,5306,1,Distributed Systems,Eary,TR,11:00 AM,12:20 PM,40,40
+CSE,5306,4,Distributed Systems,Eary,TR,2:00 PM,3:20 PM,40,27
+CSE,5191,1,Individual Study,Elmasri,TBA,TBA,TBA,50,17
+CSE,6331,2,Adv Tops Database ,Elmasri,MW,5:30 PM,6:50 PM,35,33
+CSE,4305,1,Compilers,Fegaras,TR,2:00 PM,3:20 PM,20,8
+CSE,5317,1,Compilers,Fegaras,TR,2:00 PM,3:20 PM,25,23
+CSE,5335,1,Web Data Management,Fegaras,TR,5:30 PM,6:50 PM,45,45
+CSE,6329,2,Spec Tops Adv Sftwr Eng,Frailey,F,1:00 PM,3:50 PM,35,35
+CSE,3302,1,Programming Languages,French,W,4:00 PM,6:50 PM,48,48
+CSE,2315,2,Discrete Structures,Gao,TR,11:00 AM,12:20 PM,45,45
+CSE,2315,3,Discrete Structures,Gao,TR,2:00 PM,3:20 PM,45,45
+CSE,5311,3,Algorithms,Ghidini,TR,5:30 PM,6:50 PM,40,40
+CSE,5311,4,Algorithms,Ghidini,TR,7:00 PM,08:20pm,40,37
+CSE,6389,1,"Adv NM, Graphics, Image Proc",H. Huang,M ,4:00 PM,6:50 PM,30,10
+CSE,4303,1,Computer Graphics,Hayes,MW,4:00 PM,5:20 PM,30,30
+cse,5365,1,Computer Graphics,Hayes,MW,4:00 PM,5:20 PM,5,3
+CSE,4379,1,Unmanned Vehicle,Huber,M,3:00 PM,5:50 PM,10,1
+CSE,4391,3,Individual Projectis,Huber,TR,3:30 PM,4:50 PM,3,3
+CSE,5301,1,Data Analysis & Modeling,Huber,TR,3:30,4:50 PM,60,54
+CSE,5384,1,Unmanned Vehicle,Huber,M,3:00 PM,5:50 PM,15,2
+CSE,4391,6,Individual Projectis,J. Huang,F,4:00 PM,6:50 PM,1,1
+CSE,6392,1,Adv Special Topics,J. Huang,F,4:00 PM,6:50 PM,30,29
+CSE,5382,1,Secure Programming,Jones,F,2:00 PM,04;50 pm,40,40
+CSE,6367,1,Computer Vision,Kamangar,W,7:00 PM,9:50 PM,40,24
+CSE,1301,1,Computer Literacy,Kashefi,MW,4:00 PM,5:20 PM,60,13
+CSE,1301,3,Computer Literacy Lab,Kashefi,M,5:30 PM,8:20 PM,20,7
+CSE,1301,4,Computer Literacy Lab,Kashefi,W,7:00 PM,9:50 PM,20,6
+CSE,5344,1,Computer Networks ,Kashefi,TR,3:30 PM,4:50 PM,45,21
+CSE,5344,2,Computer Networks ,Kashefi,TR,2:00 PM,3:20 PM,50,6
+CSE,3310,1,Fundamentals of SFWR Eng,Khalili,TR,12:30 PM,1:50 PM,45,45
+CSE,5325,1,Sfwr Eng II,Khalili,TR,2:00 PM,3:20 PM,45,20
+CSE,5335,20,Web Data Management,Khalili,BUPT,,,9,0
+CSE,6324,1,Adv Tops Software Eng,Khalili,TR,9:30 AM,10:50 AM,30,25
+CSE,6324,22,Adv Tops Software Eng,Khalili,TR,9:30 AM,10:50 AM,9,10
+CSE,3311,1,Object-Oriented Sftw Eng,Kung,TR,3:30 PM,4:50 PM,45,45
+CSE,5328,1,Sfwr Eng Team Project,Kung,TR,5:30 PM,6:50pm,30,10
+CSE,1311,2,Intro to Programming Engrs,Laleh,TR,5:30 PM,6:50 PM,80,58
+CSE,4321,1,Software Testing,Lei,TR,11:00 AM,12:20 PM,47,37
+CSE,4392,1,Special Topics,levine,MW,5:30 PM,6:50 PM,10,10
+CSE,5381,1,Information Security II,Levine,MW,5:30 PM,6:50 PM,30,24
+CSE,6331,1,Adv Tops Database ,Levine,MW,4:00 PM,5:20 PM,35,35
+CSE,6331,4,Adv Tops Database ,Levine,MW,2:30 PM,3:50 PM,40,40
+CSE,4380,1,Information Security,Lloyd,MW,4:00 PM,5:20 PM,45,36
+CSE,4380,2,Information Security Lab,Lloyd,W,7:00 PM,10:00 PM,18,15
+CSE,4380,3,Information Security Lab,Lloyd,M,5:30 PM,8:30 PM,18,18
+CSE,4380,4,Information Security Lab,Lloyd,F,12:30 PM,3:20 PM,9,3
+CSE,5369,1,Intelligent Systems,Makedon,TR,2:00 PM,3:20 PM,12,8
+CSE,6369,2,Spec Tops Adv Intelligent Sys,Makedon,TR,2:00 PM,3:20 PM,12,9
+CSE,2312,1,Computer Org & Assemb Lang,McMurrough,MW,4:00 PM,5:20 PM,45,45
+CSE,4316,1,Computer System Dsgn I,McMurrough,MW,11:00 AM,11:50 AM,30,30
+CSE,4316,2,Computer System Dsgn I,McMurrough,F,9:00 AM,10:50 AM,30,30
+CSE,4317,1,Computer System Dsgn II,McMurrough,TR,9:30 AM,10:50 AM,30,30
+CSE,4317,2,Computer System Dsgn II,McMurrough,F,11:00 AM,12:00 PM,30,30
+CSE,5380,1,Information Security I,Ming,F,4:00 PM,6:50 PM,45,45
+CSE,5380,2,Information Security I lab,Ming,T,7:00 PM,10:00 PM,18,18
+CSE,5380,3,Information Security I lab,Ming,R,5:30 PM,8:30 PM,18,18
+CSE,5380,4,Information Security I lab,Ming,F,12:30 PM,3:20 PM,9,9
+CSE,1310,1,Intro Computers & Programming,Moore,MW,7:00 PM,8:20 PM,45,45
+CSE,5306,2,Distributed Systems,Morgan,MWF,11:00 AM,11:50 AM,40,41
+CSE,5306,3,Distributed Systems,Morgan,MWF,10:00 AM,10:50 AM,40,40
+CSE,5345,1,Fundamentals of Wireless,Mufti,R,5:30 PM,8:20 PM,40,39
+CSE,3330,2,Database Sys & File Structures,Park,TR,7:00 PM,8:20 PM,45,45
+CSE,1310,3,Intro Computers & Programming,Qudah,TR,12:30 PM,1:50 PM,45,45
+CSE,3320,2,Operating Systems,Rao,TR,2:00 PM,3:20 PM,45,45
+CSE,1325,1,Object Oriented Programming,Rice,TR,12:30 PM,1:50 PM,40,40
+CSE,1325,2,Object Oriented Programming,Rice,TR,8:00 AM,9:20 AM,40,22
+CSE,1325,3,Object Oriented Programming,Rice,TR,9:30 AM,10:50 AM,40,34
+CSE,4321,2,Software Testing,Robb,TR,3:30,4:50 PM,20,22
+CSE,5321,1,Software Testing,Robb,TR,3:30 PM,4:50 PM,43,18
+CSE,5321,2,Software Testing,Robb,TR,2:00 PM,3:20 PM,45,45
+CSE,5324,2,"Sftw Eng Anly, Dsgn, Testing",Robb,TR,11:00 AM,12:20 PM,40,37
+CSE,5324,3,"Sftw Eng Anly, Dsgn, Testing",Robb,TR,9:30 AM,10:30 AM,40,15
+cse,2312,3,Computer Org & Assemb Lang,S. Jiang,MW,4:00 PM,5:20 PM,45,13
+cse,6329,1,Spec Tops Adv Sftwr Eng,Sahoo,T,5:30 PM,8:20 PM,35,16
+CSE,3330,1,Database Sys & File Structures,Saleh,R,11:00 AM,1:50 PM,45,31
+CSE,1320,3,intermediate Programming,Salemizadeh,MW,4:00 PM,5:20 PM,45,30
+CSE,2320,1,Algorithms & Data Structures,Stefan,TR,9:30 AM,10:50 AM,45,40
+CSE,2320,2,Algorithms & Data Structures,Stefan,TR,11:00 PM,12:20 PM,45,22
+CSE,1310,5,Intro Computers & Programming,Tiernan,TR,3:30 PM,4:50 PM,160,86
+CSE,1311,1,Intro to Programming Engrs,tripathi,MW ,4:00 PM,5:20 PM,80,80
+CSE,1320,5,intermediate Programming,tripathi,TR,9:30 AM,10:50 AM,45,42
+CSE,1320,6,intermediate Programming,tripathi,TR,11:00 AM,12:20 PM,45,22
+CSE,5330,2,Database Systems,tripathi,MW,5:30 PM,6:50 PM,45,45
+CSE,4342,1,Embedded II,Walker,TR,12:30 PM,1:50 PM,20,17
+CSE,2320,3,Algorithms & Data Structures,Weems,TR,3:30 PM,4:50 PM,45,45
+CSE,5311,5,Algorithms,Weems,TR,7:00 PM,8:20 PM,40,3
+CSE ,4391,5,Individual Projectis,Weems,TR,7:00 PM,8:20 PM,1,1
+CSE,4344,1,Computer Network Organization,Y. Liu,TR,11:00 AM,12:20 PM,48,48
+CSE,5344,20,Computer Networks ,Yonghe,BUPT,,,9,0
+CSE,2100,1,Practical Computer Systems Lab,ZARUBA,W,5:30 PM,7:30 PM,25,25
+CSE,2100,2,Practical Computer Systems Lab,ZARUBA,W,5:30 PM,7:30 PM,25,25
+CSE,2100,3,Practical Computer Systems Lab,ZARUBA,R,5:30 PM,7:30 PM,25,25
+CSE,2100,4,Practical Computer Systems Lab,ZARUBA,R,5:30 PM,8:30 PM,25,23

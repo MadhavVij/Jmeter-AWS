@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <title>Quiz 7</title>
+
+    </head>
+    <body>
+    <div class="container">
+        <div class="media-left">
+         <img src="{{ url_for('static', filename = 'image.jpg') }}" class="media-object img-circle" height="150px" width="150px"></div>
+         <div class="media-body">
+             <h1><b><center>Madhav Vij: 1001440170; class: Advance DB</center></b></h1>
+         </div>
+    </div>
+
+        <div class="container" >
+        <div class="well">
+        <div class="form-group">
+            <div class="page-header">
+                <h2>Details:</h2>
+            </div>
+            <form action="getAll" method="post">
+                <label for="instructor">Instructor: </label> <input class="form-control" type="text" name="name"
+                                                               placeholder="Eg: Smith" /><br/>
+                <label for="instructor">Course# : </label> <input class="form-control" type="text" name="course"
+                                                               placeholder="Eg: 5351" /><br/>
+                <input class="btn btn-success btn-block btn-lg" type="submit" value="query">
+            </form>
+        </div>
+        </div>
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+        <div class="page-header"><center><h1>Data From Table</h1></center><br/>
+        <center><h1>Time Taken: {{ output[-1] }}</h1></center>
+
+        </div>
+<table>
+{% for outputList in output[:-1] %}
+    <tr>
+    {% for result in outputList %}
+        <td>{{ result }}</td>
+
+    {% endfor %}
+    </tr>
+
+
+{% endfor %}
+</table>
+</body>
+</html>
