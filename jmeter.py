@@ -7,12 +7,12 @@ import pymysql
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
-memC = memcache.Client(['memcache6331.zz49ah.cfg.use2.cache.amazonaws.com:11211'], debug=0)
+memC = memcache.Client([''], debug=0)
 
 
 def connectDB():
-    return pymysql.connect(host='madhavrds.cwnoqs3zlcce.us-east-2.rds.amazonaws.com', port=3306, user='madhavvij',
-                           password='system123#', db='cloud6331', local_infile=True)
+    return pymysql.connect(host='', port=3306, user='',
+                           password='', db='', local_infile=True)
 
 def createDB():
     conn = connectDB()
