@@ -60,15 +60,8 @@ def fromMemcache(sql):
 
     hash = hashlib.sha256(sql).hexdigest()
     # print(hash)
-    key = 'cache:' + hash
-    # print("Key= ")
-    # print(key)
-
-    if memC.get(key):
-        # print("used memcache")
-        return memC.get(key)
-
-    else:
+    key = f'cache:{hash}'
+    if not memC.get(key):
         # print("add to memcache")
         cur.execute(sql)
         data = cur.fetchall()
@@ -77,7 +70,8 @@ def fromMemcache(sql):
         conn.close()
         memC.set(key, data, time=500)
 
-        return memC.get(key)
+    # print("used memcache")
+    return memC.get(key)
 
 
 @app.route('/getAll', methods=['POST','GET'])
@@ -86,15 +80,9 @@ def exampleDB():
     result = 0
     output = []
     if request.method == 'POST':
-        #instructor = request.args.get('name', '')
-        instructor = 'xxxxxx'
-        course = '0000'
-
-        if request.form['name']:
-            instructor = request.form['name']
-        if request.form['course']:
-            course = request.form['course']
-        query = 'select * from Classes WHERE Instructor like "%'+instructor+'%" or Course = "'+course+'"'
+        instructor = request.form['name'] or 'xxxxxx'
+        course = request.form['course'] or '0000'
+        query = f'select * from Classes WHERE Instructor like "%{instructor}%" or Course = "{course}"'
         result = fromMemcache(query)
         for row in result:
             tuple = (row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9])
